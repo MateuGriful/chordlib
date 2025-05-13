@@ -5,13 +5,11 @@ D5  C9  G5  D5  C9  G5
         D5  C9  G5  D5  C9  G5
 
 [Tab - Intro]
-
 (Guitarra 1)
 
 (Guitarra 2)
 
 [Primera Part]
-
 D5       C9            G5
    Big wheels keep on turning
 D5           C9             G5
@@ -24,9 +22,7 @@ D5            C9         G5
 And I think it's a sin, yes
 
 [Pasaje]
-
 [Segona Part]
-
 D5                      C9          G5
    Well I heard mister Young sing about her
 D5                    C9           G5
@@ -37,7 +33,6 @@ D5             C9                  G5
    A Southern man don't need him around anyhow
 
 [Estribillo]
-
 (Guitarra 2)
 
 D5        C5      G5  C5
@@ -55,7 +50,6 @@ Parte 4 de 4
                                              \0.5/
 
 [Tercera Part]
-
 D5            C9                G5
    In Birmingham they love the governor
  F/C  C    D5
@@ -70,7 +64,6 @@ D5            C9                G5
 Tell the truth
 
 [Estribillo]
-
 D5        C5      G5  C5
    Sweet home Alabama
 D5             C5           G5  C5
@@ -86,7 +79,6 @@ Here I come Alabama
          D5  C5  G5  D5  C5  G5
 
 [Tab - Solo 2]
-
 Parte 1 de 9
                                             \0.5/
 
@@ -100,9 +92,7 @@ D5    C5      G5
 Ahhh, Ahhhhh, ah, Alabama
 
 [Pasaje]
-
 [Quarta Parte]
-
 D5              C9                 G5
    Now Muscle Shoals has got the Swampers
 D5                    C9                      G5
@@ -115,7 +105,6 @@ D5              C9                    G5
 Now how about you?
 
 [Estribillo]
-
 D5        C5      G5  C5
    Sweet home Alabama
 D5             C5           G5  C5

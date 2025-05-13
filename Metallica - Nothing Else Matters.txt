@@ -1,9 +1,7 @@
 Metallica - Nothing Else Matters
 
 [Intro]
-
 [Primera Part]
-
 Em                     D      D4  C9
    So close no matter how    far
 Em                         D       C9
@@ -32,7 +30,6 @@ G5      B7           Em      C  A
    And nothing else matters
 
 [Chorus 1]
-
 D        D4  D        D9       C  A
   Never ca__red for what they do
 D        D4  D        D9        C  A
@@ -41,7 +38,6 @@ D         Em
   But I know
 
 [Segona Part]
-
 Em                     D  D4  C9
    So close no matter how    far
 Em                         D        C9
@@ -52,7 +48,6 @@ G5      B7           Em     C  A
    And nothing else matters
 
 [Chorus 2]
-
 D        D4  D        D9       C  A
   Never ca__red for what they do
 D        D4  D        D9        C  A
@@ -61,9 +56,7 @@ D         Em
   But I know
 
 [Solo 1]
-
 [Riff 1]
-
 Em                 D     D4  C9
    Never opened myself this way
 Em                          D    C9
@@ -74,7 +67,6 @@ G5      B7           Em
    And nothing else matters
 
 [Riff 2]
-
 Em                     D   D4  C9
    Trust I seek and I find in you
 Em                   D         C9
@@ -85,7 +77,6 @@ G5      B7           Em     C  A
    And nothing else matters
 
 [Chorus 3]
-
 D        D4  D        D9       C  A
   Never car__ed for what they say
 D        D4  D       D9          C  A
@@ -111,5 +102,4 @@ Forever trusting who we   are
 And nothing else matters
 
 [Final]
-
-[Dedilhado - Final - Violão] 
+[Dedilhado - Final - Violão]

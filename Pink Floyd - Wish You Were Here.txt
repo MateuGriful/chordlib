@@ -5,7 +5,6 @@ Em7  G  Em7  G
         Em7  A7(4)  Em7  A7(4)  G
 
 [Primera Part]
-
 C                           D/F#
   So, so you think you can tell
              Am/E                  G  
@@ -36,8 +35,7 @@ A walk on part in the war
 For a lead role in a cage?
 
 [Estribillo]
-
-C            
+C
   How I wish
                        D/F#
 How I wish you were here 

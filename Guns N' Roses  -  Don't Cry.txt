@@ -2,10 +2,9 @@ Guns N' Roses - Don't Cry
 
 [Intro]
 Am  Dm  G  ( C  G/B )
-        Am  Dm  G
+Am  Dm  G
 
 [Primera Part]
-
 Am             Dm
    Talk to me softly
         G5                 ( C  G/B )
@@ -24,7 +23,6 @@ G5               ( C  G/B )
    And don't you know
 
 [Chorus 1]
-
 F             G    Am
   Don't you cry tonight
 
@@ -39,7 +37,6 @@ There's a heaven above you baby
 And don't you cry all tonight
 
 [Segona Part]
-
 Am             Dm
    Give me a whisper
 G5              ( C  G/B )
@@ -58,7 +55,6 @@ G5                   C  G4/B  Am7     G4
    And the times we ha____________ad baby
 
 [Chorus 2]
-
 F             G    Am
   Don't you cry tonight
 F             G    Am
@@ -71,7 +67,6 @@ There's a heaven above you baby
 And don't you cry all tonight
 
 [Tercera Part]
-
 Dm              G5
    And please remember
 ( C   G/B )      Am
@@ -90,9 +85,6 @@ C5           G/B     A5        G5
    Come the morning light now baby
 
 [Estribillo Final]
-
-[Riffs - Refrão Final]
-
 F5             G5   A5
    Don't you cry tonight
 F5             G5   A5

@@ -4,7 +4,6 @@ Benson Boone - Beautiful Things
 D  A  E
 
 [Primera Part]
-
         D                 A
 For a while there it was rough
             E                F#m
@@ -42,8 +41,7 @@ But there's no man as terrified
 As the man who stands to lose you
 
 [Pre-Estribillo]
-
-D  A                     E      
+D  A                     E
      Oh, I hope I don't lose you 
 F#m     D        A       E
     Mm,   please    stay
@@ -55,7 +53,6 @@ Don't    take
 These beautiful things that I've got
 
 [Estribillo]
-
        A      F#m
 Please    stay
    E                        D
@@ -70,7 +67,6 @@ Oh-oh-oh-oh, oh, oh,  oh-oh-oh
 Please    don't take
 
 [Segona Part]
-
             D                 A
 I found my mind, I'm feelin' sane
               E    
@@ -93,7 +89,6 @@ A                    E
 I just might lose it all
 
 [Estribillo Final]
-
 D          A      F#m
    Please    stay
    E                        D

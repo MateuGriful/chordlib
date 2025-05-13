@@ -7,7 +7,6 @@ G  D  C
         G5  D5  C5
 
 [Primera Part]
-
 G        D                    Am
   Mamma take this badge from me
 G         D          C
@@ -20,8 +19,7 @@ G                  D
 Heaven's door   
 
 [Estribillo]
-
-G5              
+G5
    Knock, knock
   D5                   C5
 Knockin' on heaven's door    
@@ -49,7 +47,6 @@ Knockin' on heaven's door
 [Tab - Solo]  
 
 [Segona Part]
-
 G        D                   Am
   Mama, put my guns in the ground
 G           D            C
@@ -62,8 +59,7 @@ G                  D
 Heaven's door   
 
 [Estribillo]
-
-G5              
+G5
    Knock, knock
   D5                   C5
 Knockin' on heaven's door    
@@ -94,8 +90,7 @@ Knockin' on heaven's door
              G5  C5  D5
 
 [Estribillo Final]
-
-G5              
+G5
    Knock, knock
   D5                   C5
 Knockin' on heaven's door    

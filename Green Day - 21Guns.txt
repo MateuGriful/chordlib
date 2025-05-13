@@ -5,7 +5,6 @@ Dm  Bb  F  C
 Dm  Bb  F  C
 
 [Primera Part]
-
 Dm          Bb               F           C
    Do you know what's worth fighting for
 Dm            Bb        F         C
@@ -25,7 +24,6 @@ Dm         Bb              F       C
 You're in ruins
 
 [Chorus 1]
-
 F5     E5+       D5
 One, twenty one guns
  C5           Bb5

@@ -1,10 +1,8 @@
 Elton John - Tiny Dancer
 
 [Intro]
-
 [Primera Part]
-
-C         F     C     F     C                   Am   
+C         F     C     F     C                   Am
 Blue jean baby,  L.A. lady,  seamstress for the band
    G
 
@@ -48,7 +46,6 @@ Where only you, and you can hear me
 When I say: "softly, slowly"
 
 [Chorus]
-
 F         C           Dm          Em
 "Hold me closer Tiny Dancer"
 F          C                  G

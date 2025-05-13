@@ -5,7 +5,6 @@ Am  C  D  F
         Am  E  Am  E
 
 [Primera Part]
-
       Am    C        D          F
 There is a house in New Orleans
       Am       C      E   
@@ -20,7 +19,6 @@ And God, I know, I'm one
 ( Am  E  Am  E )
 
 [Segona Part]
-
     Am     C     D     F
 My mother was a tailor
      Am       C        E 
@@ -33,7 +31,6 @@ Down in New Orleans
 ( Am  E  Am  E )
 
 [Tercera Part]
-
         Am     C       D       F
 Now the only things a gambler needs
       Am      C       E   
@@ -53,7 +50,6 @@ Am  C  D  F
        Am  E  Am  E
 
 [Quarta Parte]
-
      Am     C                 D  F
 Oh, mother!   Tell your children
         Am     C       E    
@@ -66,8 +62,7 @@ In the house of the rising sun
 ( Am  E  Am  E )
 
 [Quinta Parte]
-
-               Am      
+               Am
 Well, I've got one foot 
 C        D      F
 On the platform
@@ -81,8 +76,7 @@ To wear the ball and chain
 ( Am  E  Am  E )
 
 [Primera Part]
-
-            Am    C    
+            Am    C
 Well, there is a house
     D          F
 In New Orleans

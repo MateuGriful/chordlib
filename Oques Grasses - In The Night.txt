@@ -9,7 +9,6 @@ in the nainonai nonaight.
 Cm Gm D Gm x4
 
 [Estrofa]
-
 D
 Aquesta nit vull ser jo el meu propi perill,
 Gm
@@ -30,7 +29,6 @@ i senti el risc.  Ohhhh
 
 
 [Tornada]
-
 Cm Gm D Gm x4
 
          Cm             Gm
@@ -42,7 +40,6 @@ x4
 Cm Gm D Gm x4
 
 [Estrofa]
-
 D
 Es despengen de l’arbre
                 D#
@@ -62,7 +59,6 @@ i que no acabi, no acabi mai.
 
 
 [Pont]
-
             D#              A#
 Aquí en l’ocàs dels meus principis,
        D                Gm
@@ -84,7 +80,6 @@ Naixem en la fi dels dies,
 els nostres mals…
 
 [Tornada]
-
          Cm             Gm
 In the night, in the night,
          D          Gm
