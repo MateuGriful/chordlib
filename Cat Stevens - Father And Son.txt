@@ -2,9 +2,9 @@ Cat Stevens - Father And Son
 
 [Intro]
 G  C/G  G  C/G
-        G  C/G  G  C/G
+G  C/G  G  C/G
 
-[Primera Parte]
+[Primera Part]
 
           G               D 
 It's not time to make a change
@@ -62,13 +62,13 @@ I know I have to go
 
 [Solo]
 G  D  C  Am7
-       G  Em  Am7  D
-       G  D  C  Am7 
-       G  Em  D  G
-       D  C  G
-       C/G  G  C/G
+G  Em  Am7  D
+G  D  C  Am7
+G  Em  D  G
+D  C  G
+C/G  G  C/G
 
-[Segunda Parte]
+[Segona Part]
 
           G               D
 It's not time to make a change

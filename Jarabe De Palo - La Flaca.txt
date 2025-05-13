@@ -3,7 +3,7 @@ Jarabe de Palo - La Flaca
 [Intro]
 Am  E  D F/A  E/G# Am  E7
 [Tab - Intro]
-[Primera Parte]
+[Primera Part]
 
 Am               	E7       	 
    En la vida conocí   
@@ -30,7 +30,7 @@ Am                  	E7
 Dice que así al hambre engaña
               	C               	 
 Cuando cae la noche baja
-	E7(9-)    	Am
+	E7    	Am
 A bailar a la tasca
            	E7             	D7
 Y bailar y bailar y tomar y tomar
@@ -61,7 +61,7 @@ Aunque sólo uno fuera
               	Am  E7  
 Aunque sólo uno fuera
 
-[Segunda Parte]
+[Segona Part]
 Am                	E7       	 
    Mojé mis sabanas blancas
               	D7
@@ -69,7 +69,7 @@ Como dice la canción
               	C    	 
 Recordando las caricias
 
-     	E7(9-)       	Am
+     	E7      	Am
 Que me brindó el primer día
                	E7                	 
 Y enloquezco de ganas
@@ -122,7 +122,7 @@ B7  	E7       	Am
 B7  	E7       	Am
    Aunque sólo uno fuera
 
-( B7  E7  Am  B7  E7  Am )
+B7  E7  Am  B7  E7  Am
 
 B7  	E7       	Am  B7  E7  Am
    Aunque sólo uno fuera

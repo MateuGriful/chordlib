@@ -1,11 +1,11 @@
 Piano Man - Billy Joel
 
-[Primera Parte]
- Dm7  Dm6
- C  G/B  Am  Am/G
- F  C/E  D7  G
- C  G/B  Am  Am/G
- F  G11  C  G/B
+[Primera Part]
+Dm7  Dm6
+C  G/B  Am  Am/G
+F  C/E  D7  G
+C  G/B  Am  Am/G
+F  G11  C  G/B
 
       C          G/B             Am       Am/G
 It's nine o'clock on a Saturday
@@ -42,7 +42,7 @@ And you've got us feeling all right
  C  G/B  Am  Am/G
  F  G11  C  C4
 
-[Segunda Parte]
+[Segona Part]
 
      C          G/B       Am          Am/G
 Now John at the bar is a friend of mine
@@ -68,7 +68,7 @@ Da da da de de da
       Am/G      F#m7    D7    G    G/F   C/E  G7/D
 Da da de de             da da da
 
-[Terceira Parte]
+[Tercera Part]
 
     C         G/B          Am      Am/G
 Now Paul is a real estate novelist

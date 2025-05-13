@@ -3,7 +3,7 @@ Elton John - Your Song
 [Intro]
  C  F/C  G/C  F/C
 
-[Primera Parte]
+[Primera Part]
 
 C                    F7M
   It's a little bit funny
@@ -60,9 +60,9 @@ How wonderful life is
        F             G    G4  G
 While you're in the world
 
-( C  F/C  G/C  F/C )
+C  F/C  G/C  F/C
 
-[Segunda Parte]
+[Segona Part]
 
 C               F7M
   I sat on the roof

@@ -3,7 +3,7 @@ Electric Light Orchestra (ELO) - Mr. Blue Sky
 [Intro]
 F
 
-[Primera Parte] 
+[Primera Part]
 
  F
 Sun is shinin' in the sky
@@ -53,7 +53,7 @@ Where did we go wrong
 F  Em7  A  Dm  G
        Em  A  Bb  C  F  C
 
-[Segunda Parte] 
+[Segona Part]
 
 F
   Hey you with the pretty face
@@ -104,7 +104,7 @@ Mr Blue Sky. Mis_ter Blue Sky
 Em A7   Bb   C  F  C
    Mr Blue Sky
 
-[Terceira Parte] 
+[Tercera Part]
 
 F
 Mr. Blue you did it right
